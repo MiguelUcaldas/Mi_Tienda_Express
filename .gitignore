@@ -1,0 +1,15 @@
+# Llaves: nunca subir
+.env
+.env.*
+!.env.example
+
+# Supabase CLI
+supabase/.temp
+supabase/.branches
+
+# Editor y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+node_modules/
